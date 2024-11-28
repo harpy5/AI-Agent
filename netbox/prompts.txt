@@ -1,0 +1,1 @@
+Find the devices with role netinfra-tor in Netbox and then find the info about the interfaces of those devices
